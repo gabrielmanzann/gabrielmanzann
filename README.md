@@ -18,6 +18,8 @@ Tools & Databases: Git PostgreSQL
 
 ## 📫 How to reach me:
 LinkedIn: https://www.linkedin.com/in/gabriel-silva-manzan-5758092a4/
+
 Email: gsmanzan273@gmail.com
+
 “Always striving for cleaner code and better solutions.”
 
