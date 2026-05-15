@@ -10,11 +10,11 @@ I'm a Back-End Developer based in Goiânia, Brazil, focused on building robust a
 ## 📍 Based in Goiânia, GO.
 
 ## 🛠 Tech Stack
-Languages & Core: Java JavaScript
+Languages & Core: Java & JavaScript
 
-Frameworks & Technologies: Spring Node.js React
+Frameworks & Technologies: Spring, Node.js & React
 
-Tools & Databases: Git PostgreSQL
+Tools & Databases: Git & PostgreSQL
 
 ## 📫 How to reach me:
 LinkedIn: https://www.linkedin.com/in/gabriel-silva-manzan-5758092a4/
